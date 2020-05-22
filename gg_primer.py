@@ -152,14 +152,6 @@ def append_overhangs(myseqs, type):
     return seq
 
 
-def seq_iter():
-    ''' {}
-
-
-
-    '''
-
-
 
 if __name__ == '__main__':
     import doctest
